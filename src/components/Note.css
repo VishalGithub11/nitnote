@@ -1,0 +1,10 @@
+.Note-container{
+    width: 250px;
+    border: 1px solid #033249;
+    border-radius: 5px;
+    margin-top:15px ;
+    margin-left: 20px;
+}
+.delete-icon{
+    margin-left: 185px;
+}

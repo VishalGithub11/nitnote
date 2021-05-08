@@ -1,0 +1,15 @@
+.Hleft{
+    height: 100px;
+    width: 100%;
+    background: #FF8038;
+    display: flex;
+    flex-wrap:wrap ;
+
+}
+.Htext{
+    margin-left: 20px;
+    margin-top: 20px;
+    color: #EFEDE8;
+    font-size: 80px;
+
+}
